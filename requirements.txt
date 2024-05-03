@@ -1,0 +1,9 @@
+fastapi
+sqlalchemy
+sqlmodel
+asyncpg
+psycopg2-binary
+fastapi-sqlalchemy
+uvicorn
+alembic
+gunicorn
